@@ -1,0 +1,11 @@
+Aluminum Mod v1.00 by C0LEsGaMinG Games
+
+Transparency Mode:
+  Removes Most "Aluminum Mod" Branding
+
+Show Hidden Buttons:
+  Shows hidden buttons and menus
+
+Low Detail Mode:
+  Removes Detailed objects such as Flag Poles
+  Removes Animations from buttons in the menu
