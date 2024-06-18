@@ -1,4 +1,7 @@
 Aluminum Mod v1.00 by C0LEsGaMinG Games
+Mini Mayhem v1.30 by PhoenixCoder
+Aluminum Mod for Mini Mayhem v1.30
+
 
 Menu Panels:
   Graphics:
@@ -10,7 +13,11 @@ Menu Panels:
     Remove Anti-cheat
   Miscelaneous:
     
-    
+  Aluminum Settings:
+    Aluminum Assistant
+
+
+
 
 Aluminum Mod Menu:
   Press the [Control] key to open the menu or open it via settings
@@ -31,3 +38,5 @@ Remove Borders:
 
 Remove Anti-cheat:
   Removes the built in Anti-cheat for Hard Rated Levels (The Ones With The Soft Red Background)
+
+Some mods require you to reload the menu
