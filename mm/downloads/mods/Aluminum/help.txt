@@ -17,8 +17,6 @@ Menu Panels:
     Aluminum Assistant
 
 
-
-
 Aluminum Mod Menu:
   Press the [Control] key to open the menu or open it via settings
   Press the arrows at the bottom to navigate panels
@@ -38,5 +36,8 @@ Remove Borders:
 
 Remove Anti-cheat:
   Removes the built in Anti-cheat for Hard Rated Levels (The Ones With The Soft Red Background)
+
+Aluminum Assistant:
+  Adds a narrator to the whole game inclulding on the Aluminum Mod Panel
 
 Some mods require you to reload the menu
