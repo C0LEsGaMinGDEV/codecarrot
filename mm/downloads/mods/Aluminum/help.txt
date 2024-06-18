@@ -12,6 +12,7 @@ Menu Panels:
     Remove Borders
     Remove Anti-cheat
   Miscelaneous:
+    Hidden Dark Mode
     
   Aluminum Settings:
     Aluminum Assistant
@@ -21,7 +22,7 @@ Aluminum Mod Menu:
   Press the [Control] key to open the menu or open it via settings
   Press the arrows at the bottom to navigate panels
 
-Transparency Mode:
+*Transparency Mode:
   Removes Most "Aluminum Mod" Branding
 
 Show Hidden Buttons:
@@ -36,6 +37,9 @@ Remove Borders:
 
 Remove Anti-cheat:
   Removes the built in Anti-cheat for Hard Rated Levels (The Ones With The Soft Red Background)
+
+*Hidden Dark Mode:
+  Enables a previously disabled menu background image
 
 Aluminum Assistant:
   Adds a narrator to the whole game inclulding on the Aluminum Mod Panel
