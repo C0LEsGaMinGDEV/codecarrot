@@ -1,2 +1,0 @@
-<a href="https://user.itch.io/" class="glass-button">Download From Itch.io</a>
-<a href="" class="glass-button">Download Directly (Windows)</a>
